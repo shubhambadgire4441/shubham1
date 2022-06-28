@@ -10,3 +10,5 @@ e="url copy"
 print(e)
 f="on local added one line"
 print(f)
+g="test"
+print(g)
