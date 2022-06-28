@@ -15,6 +15,8 @@ print("the result of addition of",FN,"and",SN,"=",c)
 print("the result of addition of "+str(FN)+" and "+str(SN)+" = "+str(c))
 a="shubham"
 print(a)
+b="test"
+print(b)
 
 
 
